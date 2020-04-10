@@ -1,5 +1,5 @@
 anyjson
-beautifulsoup
+beautifulsoup==3.2.1
 beautifulsoup4
 billiard
 bs4
@@ -16,7 +16,7 @@ json2html
 lxml
 netaddr
 piplapis-python
-praw
+praw<6.4
 pymongo
 python-wappalyzer
 python-whois
