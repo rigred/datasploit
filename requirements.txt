@@ -30,4 +30,3 @@ tldextract
 tqdm
 travispy
 tweepy
-pytest>=5.0

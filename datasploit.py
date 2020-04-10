@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-import dep_check
-dep_check.check_dependency()
+#import dep_check
+#dep_check.check_dependency()
 
 import re
 import sys
